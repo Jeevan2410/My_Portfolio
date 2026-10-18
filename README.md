@@ -6,6 +6,8 @@ My first portfolio page: profile, skills, projects and contact, in plain HTML an
 
 ![Portfolio hero with an avatar, Download CV and Contact Info buttons](docs/screenshot.jpg)
 
+![Animated demo: scrolling through the portfolio page](docs/demo.gif)
+
 ## Built with
 
 HTML and CSS.
